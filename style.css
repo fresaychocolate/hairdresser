@@ -7,6 +7,7 @@ body {
 
 .nav-link {
     color: #def5fc; /* Warum kann ich die Textfarbe in den Navigation nicht ueberschreiben? */
+    /* font-family: Arial; */
 }
 
 .modal-dialog {
